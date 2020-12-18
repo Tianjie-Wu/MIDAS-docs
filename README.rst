@@ -2,21 +2,21 @@ MIDAS
 ========
 
 MIDAS (MultI-model Data Assimilation System)
-MIDAS Ŀǰ���ڿ����׶Σ����й�����ʱ�������������˷��ĵ�
+MIDAS 目前处于开发阶段，所有功能暂时不完整，包括此份文档
 
-������װ
+怎样安装
 ------------
 
-ֻ��Ҫ����:
+只需要运行:
 
     foo-bar
 
-������
+贡献者
 ----------
 
-- ��û�أ������ء�
+- 还没呢，等你呢。
 
-֧��
+支持
 -------
 
 If you are having issues, please let us know.
