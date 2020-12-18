@@ -9,15 +9,15 @@ MIDAS documentation
 
 MIDAS(MultI-model Data Assimilation System) 
 
-文档,Think of it as *Continuous Documentation*.
+这里是文档,Think of it as *Continuous Documentation*.
 
-实时更新(我瞎写的) |:arrows_counterclockwise:|
+实时更新(我瞎写的) 
     可以用上最新版本
 
-我们支持很多模式 |:card_index_dividers:|
+我们支持很多模式 
     很多很多模式
 
-我们是开源的 |:heartbeat:|
+我们是开源的 
     欢迎来这里看看 `源代码 <https://github.com/Tianjie-Wu/MIDAS>`_.
 
 
@@ -30,16 +30,16 @@ Learn about documentation authoring tools such as Sphinx and MkDocs
 to help you create fantastic documentation for your project.
 
 * **怎样开始**:
-  :doc:`系统需求 </intro/system-requirements>` |
-  :doc:`/intro/info`
+  :doc:`系统需求 </contributing>` |
+  :doc:`/contributing`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: First steps
 
-   /intro/system-requirements
-   /intro/info
+   /contributing
+   /contributing
 
 开发说明
 ------------------------------------------
@@ -47,7 +47,7 @@ to help you create fantastic documentation for your project.
 首先，欢迎您加入我们，和我们一起改进MIDAS
 
 * **最重要的事情**:
-  :doc:`Contributing <contribute>` |
+  :doc:`Contributing </contributing>` |
 
 
 内容:
