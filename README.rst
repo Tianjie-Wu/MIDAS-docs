@@ -2,41 +2,27 @@ MIDAS
 ========
 
 MIDAS (MultI-model Data Assimilation System)
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+MIDAS 目前处于开发阶段，所有功能暂时不完整，包括此份文档
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
+怎样安装
 ------------
 
-Install $project by running:
+只需要运行:
 
-    install project
+    foo-bar
 
-Contribute
+贡献者
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- 还没呢，等你呢。
 
-Support
+支持
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+We have a mailing list located at: wtjcosl@usa.com;wutj@cma.gov.cn
 
 License
 -------
 
-The project is licensed under the BSD license.
+The project is licensed under the GNU 3.0 license.
