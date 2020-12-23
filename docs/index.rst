@@ -45,8 +45,8 @@ MIDAS(MultI-model Data Assimilation System)
 
 首先，欢迎您加入我们，和我们一起改进MIDAS
 
-* **如果您想一起开发MIDAS，那么**:
-  :doc:`请阅读开发者注意事项 </development/notices>` 
+* **如果您想一起开发MIDAS，那么请阅读**:
+  :doc:`开发者注意事项 </development/notices>` 
 
 * **开发路线** :
   :doc:`总体目标 </development/targets>`
@@ -67,20 +67,20 @@ MIDAS(MultI-model Data Assimilation System)
 
 
 
-内容:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+..内容:
+..
+.... toctree::
+..   :maxdepth: 2
+..   :glob:
+..
+..   *
+..
+..
+..
+..Indices and tables
+..==================
+..
+..* :ref:`genindex`
+..* :ref:`modindex`
+..* :ref:`search`
 
