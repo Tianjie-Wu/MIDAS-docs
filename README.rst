@@ -17,7 +17,6 @@ MIDAS 目前处于开发阶段，所有功能暂时不完整，包括此份文档
 - 还没呢，等你呢。
 
 支持
->>>>>>> master
 -------
 
 If you are having issues, please let us know.
