@@ -6,6 +6,7 @@
 MIDAS documentation
 ==================================================
 
+<<<<<<< HEAD
 
 MIDAS(MultI-model Data Assimilation System) 
 
@@ -53,6 +54,9 @@ MIDAS(MultI-model Data Assimilation System)
 
 
 
+=======
+内容:
+>>>>>>> master
 
 .. toctree::
    :maxdepth: 2
