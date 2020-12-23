@@ -46,7 +46,7 @@ MIDAS(MultI-model Data Assimilation System)
 首先，欢迎您加入我们，和我们一起改进MIDAS
 
 * **如果您想一起开发MIDAS，那么**:
-  :doc:`阅读开发者注意事项 </development/notices>` 
+  :doc:`请阅读开发者注意事项 </development/notices>` 
 
 * **开发路线** :
   :doc:`总体目标 </development/targets>`
