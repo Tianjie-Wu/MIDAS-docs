@@ -11,6 +11,8 @@ MIDAS(MultI-model Data Assimilation System)
 
 这里是文档,Think of it as *Continuous Documentation*.
 
+
+
 实时更新(我瞎写的) 
     可以用上最新版本
 
@@ -24,22 +26,19 @@ MIDAS(MultI-model Data Assimilation System)
 快速入门
 -----------
 
-Are you new to software documentation
-or are you looking to use your existing docs with Read the Docs?
-Learn about documentation authoring tools such as Sphinx and MkDocs
-to help you create fantastic documentation for your project.
+快速入门
 
 * **怎样开始**:
-  :doc:`系统需求 </contributing>` |
-  :doc:`/contributing`
+  :doc:`系统需求 </quickstart/requirements>` |
+  :doc:`下载 </quickstart/download>`
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: First steps
+   :caption: 快速入门
 
-   /contributing
-   /contributing
+   /quickstart/requirements
+   /quickstart/download
 
 开发说明
 ------------------------------------------
@@ -47,7 +46,25 @@ to help you create fantastic documentation for your project.
 首先，欢迎您加入我们，和我们一起改进MIDAS
 
 * **最重要的事情**:
-  :doc:`Contributing </contributing>` |
+  :doc:`重要信息 </development/important>` 
+
+* **开发路线** :
+  :doc:`总体目标 </development/targets>`
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 开发说明
+
+   /development/important
+   /development/targets
+
+
+
+
 
 
 内容:
