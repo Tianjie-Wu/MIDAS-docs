@@ -1,7 +1,7 @@
 ============
-Installation
+安装
 ============
 
-Install the package with pip::
+Install MIDAS::
 
-    $ pip install read-the-docs-template
+    $ install foo-bar

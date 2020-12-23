@@ -1,7 +1,7 @@
 ========
-Usage
+使用说明
 ========
 
-To use this template, simply update it::
+To use MIDAS, simply update it::
 
-	import read-the-docs-template
+	import foo-bar
