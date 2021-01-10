@@ -56,7 +56,6 @@ MIDAS(MultI-model Data Assimilation System)
 
 =======
 内容:
->>>>>>> master
 
 .. toctree::
    :maxdepth: 2
@@ -65,6 +64,7 @@ MIDAS(MultI-model Data Assimilation System)
 
    /development/notices
    /development/targets
+   /development/standard
 
 
 
