@@ -21,7 +21,7 @@ MIDAS(MultI-model Data Assimilation System)
 我们是开源的 
     欢迎来这里看看 `源代码 <https://github.com/Tianjie-Wu/MIDAS>`_.
 
-    请注意，部分代码可能**未及时更新**
+    请注意，部分代码可能 **未及时更新** 
 
 
 快速入门
