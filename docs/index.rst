@@ -52,11 +52,6 @@ MIDAS(MultI-model Data Assimilation System)
 * **开发路线** :
   :doc:`总体目标 </development/targets>`
 
-
-
-=======
-内容:
-
 .. toctree::
    :maxdepth: 2
    :hidden:
